@@ -40,4 +40,7 @@ def print_first_and_last(sentence):
 #   ''.split()
 #   sorted([])
 #   [].pop()   .pop(0) for first  .pop(-1) for last
-#
+
+# to import
+#   import ex25
+#   from ex25 import *  (this places all the functions inside the current file)
